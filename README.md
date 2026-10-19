@@ -55,42 +55,38 @@
 
 ---
 
+
 ## 🚀 Featured Projects
 
 ### 📊 Retail Business Analytics | Power BI
 
-An interactive dashboard exploring retail sales, profitability, customer demographics, and business performance.
+An interactive dashboard exploring retail sales, profitability, customer behavior, and business performance.
 
 **Tools:** Power BI, Power Query, DAX
 
 [View Repository](https://github.com/MilaJoseph/Retail-Business-Analytics-PowerBI)
 
+---
+
 ### 🛒 Global Electronics Retail & Delivery Analytics
 
-A data analytics project focused on exploring retail and delivery performance using a multi-table business dataset.
+A data analytics project focused on exploring retail operations, sales performance, and delivery insights using a multi-table business dataset.
 
-**Focus:** Data exploration, business insights, and analytics visualization.
+**Focus:** Data Exploration, Business Insights, Data Visualization
 
 [View Repository](https://github.com/MilaJoseph/Global-Electronics-Retail-Delivery-Analytics)
 
-### 🛡️ ASTRA | AI-Driven Women's Safety App
-
-An academic project combining mobile application development with AI-based image manipulation and cyberbullying detection.
-
-**Tools:** Flutter, Firebase, Python, Deep Learning
-
-[View Repository](https://github.com/MilaJoseph/Astra_Final)
-
 ---
 
-## 📈 GitHub Statistics
+### 🗄️ E-Commerce Database & SQL Analysis
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MilaJoseph&show_icons=true&theme=tokyonight&hide_border=true" alt="Mila's GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilaJoseph&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages">
-</p>
+A SQL project focused on working with an e-commerce database, managing tables, and writing queries to solve business-related data problems.
 
----
+**Tools:** SQL, MySQL Workbench
+
+**Focus:** Data Retrieval, JOINs, Aggregations, Subqueries, and Business Analysis
+
+[View Repository](https://github.com/MilaJoseph/E_Commerce)
 
 ## 🤝 Connect With Me
 
